@@ -1,0 +1,17 @@
+[
+  {
+    "type": "leave_request",
+    "tone": "professional",
+    "example": "..."
+  },
+  {
+    "type": "meeting",
+    "tone": "professional",
+    "example": "..."
+  },
+  {
+    "type": "extension_request",
+    "tone": "polite",
+    "example": "..."
+  }
+]

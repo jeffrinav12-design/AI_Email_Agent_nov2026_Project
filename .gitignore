@@ -1,0 +1,7 @@
+.env
+credentials.json
+token.json
+tokens/
+**pycache__/
+*.pyc
+email_history.db
